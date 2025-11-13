@@ -1,0 +1,422 @@
+AnimInfo = {
+	["itemType"] = 11411,
+	["base"] = "models/cutscenes/t_sera-startscene-sec17-27-B0",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 12.0000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 28.0000,--dying sera is talking START_SE_SCRIPT
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 7.3333,
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 4.0000,
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 80.0000,--dying sera is talking to you QUEST_1061_GIVER_START
+			},
+		},
+		["entry5"] = 
+		{
+			["name"] = "ANIM_TYPE_SM06_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 8.0000,
+			},
+		},
+		["entry6"] = 
+		{
+			["name"] = "ANIM_TYPE_SM07_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000,
+			},
+		},
+		["entry7"] = 
+		{
+			["name"] = "ANIM_TYPE_SM08_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000,
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)
+
+AnimInfo = {
+	["itemType"] = 11510,
+	["base"] = "models/cutscenes/t_tg-startscene-sec24-27-B0",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 20.5000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 15.0000, --"i dont want to dig anymore" START_TW_SCRIPT
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.0000,
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 23.0000,--hologram is talking (bad: 22s QUEST_1079_GIVER_START)  
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.5000, --"whats that??" TG_G_SKOOTH_1 (3s)     TG_B_SKOOTH_1 (3s)
+			},
+		},
+		["entry5"] = 
+		{
+			["name"] = "ANIM_TYPE_SM06_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 1.5000,--"can it speak?" TG_G_LEVIAN_1 (1s) TG_B_LEVIAN_1 (1s)
+			},
+		},
+  ["entry6"] = 
+		{
+			["name"] = "ANIM_TYPE_SM07_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 10.0000,--"dont know! lets (good: run!, bad: destroy it!)" TG_G_SKOOTH_2
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)
+
+AnimInfo = {
+	["itemType"] = 11093,
+	["base"] = "models/cutscenes/t_he-startscene-sec19-24-B0",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 9.6000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.6000,
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 11.0000, --master is talking QUEST_1069_GIVER_START
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 7.2000,
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 4.0000, --student says "i'm ready"
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)
+
+AnimInfo = {
+	["itemType"] = 11217,
+	["base"] = "models/cutscenes/t_dr-startscene-sec20-22-B0",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 10.0000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000,
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 14.0000, --shamane is talking START_DR_SCRIPT
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.3333,
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 2.0000,
+			},
+		},
+		["entry5"] = 
+		{
+			["name"] = "ANIM_TYPE_SM06_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 2.0000,
+			},
+		},
+		["entry6"] = 
+		{
+			["name"] = "ANIM_TYPE_SM07_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.6667,
+			},
+		},
+		["entry7"] = 
+		{
+			["name"] = "ANIM_TYPE_SM08_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.3333,
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)
+
+AnimInfo = {
+	["itemType"] = 11462,
+	["base"] = "models/cutscenes/t_in-startscene-sec19-26-B0",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.0000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 7.3333,
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 5.0000,
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 20.0000, --friendly inquisitor is talking to you QUEST_1076_GIVER_START (20s)
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000, --drinking
+			},
+		},
+		["entry5"] = 
+		{
+			["name"] = "ANIM_TYPE_SM06_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 20.0000, --friendly inquisitor is dead QUEST_1076_GIVER_ACCOMPLISHED (19s)
+			},
+		},
+		["entry6"] = 
+		{
+			["name"] = "ANIM_TYPE_SM07_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000,
+			},
+		},
+		["entry7"] = 
+		{
+			["name"] = "ANIM_TYPE_SM08_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.0000,
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)
+
+AnimInfo = {
+	["itemType"] = 11221,
+	["base"] = "models/cutscenes/t_sw-startscene-sec17-025-D1",
+	["animList"] = 
+	{
+		["entry0"] = 
+		{
+			["name"] = "ANIM_TYPE_SM01_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 12.0000,
+			},
+		},
+		["entry1"] = 
+		{
+			["name"] = "ANIM_TYPE_SM02_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 26.0000, --master is talking START_SK_SCRIPT
+			},
+		},
+		["entry2"] = 
+		{
+			["name"] = "ANIM_TYPE_SM03_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 4.0000,
+			},
+		},
+		["entry3"] = 
+		{
+			["name"] = "ANIM_TYPE_SM04_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 3.6000,
+			},
+		},
+		["entry4"] = 
+		{
+			["name"] = "ANIM_TYPE_SM05_STD",
+			["marker"] = 
+			{
+				["ANIMSTART"] = 0.0000,
+				["ANIMEND"] = 9.0000,
+			},
+		},
+	},
+}
+mgr.addAnimInfo(AnimInfo)

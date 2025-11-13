@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<suixml version="0.0.1.0">
+
+	<!-- the Name-Attribute must be the internal font name -->
+	
+	<Fonts>
+    <Font Name="ZabriskieScript-Bold" File="ZabriskieScript-Bold.ttf"/> 
+    <Font Name="AntiquaSSK" File="AntqSSK.ttf"/>
+  </Fonts>
+
+	<!-- here you can use symbolic/aliased names for fonts -->
+	
+	<FontGroups>
+    <FontGroup Name="CaptionFontGroup">
+      "ZabriskieScript-Bold"
+    </FontGroup>
+    <FontGroup Name="TextFontGroup">
+      "AntiquaSSK"
+    </FontGroup>
+	</FontGroups>
+
+</suixml>
