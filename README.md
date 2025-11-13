@@ -8,9 +8,11 @@ RUSSIAN LOCALIZATION
 
 ## DOWNLOAD
 LAST FIXES RELEASE:
+
 https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.3b/en_UK.zip
 
 FULL PAKEAGE PRE-RELEASE WITHOUT FIXES:
+
 https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip
 
 ## COMMUNITY
