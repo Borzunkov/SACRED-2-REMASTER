@@ -1,7 +1,7 @@
 # SACRED 2 REMASTER
 RUSSIAN LOCALIZATION FIX
 
-![SACRED 2 REMASTER](https://images.steamusercontent.com/ugc/16257776941405511610/9A36016DDFA15A24083F2A4243FE2357A2D4BA8B/)
+[![SACRED 2 REMASTER](https://images.steamusercontent.com/ugc/16257776941405511610/9A36016DDFA15A24083F2A4243FE2357A2D4BA8B/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
 ## INSTALLATION
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
