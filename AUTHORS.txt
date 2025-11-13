@@ -1,0 +1,9 @@
+# List of AUTHORS who contributed to the project
+
+## MAIN CONTRIBUTION BY
+Akella
+http://akella.com/
+
+## OTHERS CONTRIBUTION BY
+Zuzya Borzunkov
+https://github.com/Borzunkov
