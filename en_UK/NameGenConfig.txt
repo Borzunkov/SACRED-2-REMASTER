@@ -1,0 +1,80 @@
+//Config für Namensgenerator
+//NUR Zahlen ändern!!!
+//NUR ganze Zahlen
+//Reihenfolge darf nicht geändern werden
+//Nur DIREKT VOR oder DIREKT NACH den Kommentaren eigene Kommantare Erlaubt, mit "//" beginend!
+//Anzahl Geschlechter in der Sprache:
+Gender=4
+//defaultName on error:
+defaultname=Ïðåäìåò
+//Probability how much attributes are added to the itemname:
+//RareLOW Items will have 1 attribut (used for words like "old")
+//RareNORMAL will have 0 or 1 attributs:   according to Q1
+//RareMAGIC will have 1 or 2 attributs:    according to Q2
+//RareVERYRARE will have 2 or 3 attributs: according to Q3
+//The value after "Q" gives the probability for the higher attribus amount.
+//e.g. Q2=50  means that 50 % of all RareMagic will have 2 attributes
+Q1=50
+Q2=50
+Q3=0
+//Not used: 
+using=40
+Difference=5
+RARE0=2
+RARE1=5
+RARE5=15
+RARE9=20
+RARE13=30
+RARE15=35
+MAT_INVALID=0
+MAT_NORMAL=10
+MAT_GOOD=20
+MAT_UNIQUE=35
+//1-word-settings (arrangement probabilities must sum up to 100)
+D_I=50
+I_A=50
+MatComboChance=0
+BonComboChance=0
+//2-word-settings (arrangement probabilities must sum up to 100)
+D_D_I=0
+D_I_A=100
+I_A_A=0
+MatComboChance=0
+BonComboChance=0
+//3-word-settings (arrangement probabilities must sum up to 100)
+D_D_D_I=0
+D_D_I_A=100
+D_I_A_A=0
+I_A_A_A=0
+MatComboChance=0
+BonComboChance=0
+//rareLOW settings for chosing which word list (must sum up to 100)
+rare=100
+mat=0
+bonus=0
+//rareNORMAL settings for chosing which word list (must sum up to 100)
+rare=34
+mat=33
+bonus=33
+//rareMAGIC settings for chosing which word list (must sum up to 100)
+rare=34
+mat=33
+bonus=33
+//rareVERYRARE settings for chosing which word list (must sum up to 100)
+rare=34
+mat=33
+bonus=33
+//concatenation order before item name (lower number goes first, equal numbers go randomly)
+descriptRare=1
+descriptMaterial=2
+descriptBonus=3
+//concatenation order after item name (lower number goes first, equal numbers go randomly)
+appendRare=1
+appendMaterial=1
+appendBonus=1
+//removing leading space while concatenating if word starts with a 
+NO_SPACE_CHARACTER=%
+//Do not change the next option
+START_WITH_UPPER_CASE=0
+
+
