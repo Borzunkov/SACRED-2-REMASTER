@@ -11,3 +11,6 @@ https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1b/en_UK.zip
 
 ## COMMUNITY
 https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809
+
+## INFORMATION
+THIS IS ONLY FIXES FILES, FULL LOCALIZATION LOOK IN CUMMUNITY!
