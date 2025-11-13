@@ -1,5 +1,5 @@
 # SACRED 2 REMASTER
-RUSSIAN LOCALIZATION FIX
+RUSSIAN LOCALIZATION
 
 [![SACRED 2 REMASTER](https://images.steamusercontent.com/ugc/16257776941405511610/9A36016DDFA15A24083F2A4243FE2357A2D4BA8B/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
@@ -13,4 +13,4 @@ https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.2b/en_UK.zip
 https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809
 
 ## INFORMATION
-THIS IS ONLY FIXES FILES, FULL LOCALIZATION LOOK IN CUMMUNITY!
+ALL QUESTIONS AND ANSWERS IN STEAM COMMUNITY!
