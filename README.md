@@ -1,5 +1,5 @@
 # SACRED 2 REMASTER
-RUSSIAN LOCALIZATION
+RUSSIAN LOCALIZATION FIX
 
 ## INSTALLATION
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
