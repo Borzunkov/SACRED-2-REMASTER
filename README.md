@@ -8,7 +8,7 @@ IF DOWNLOADED EN_UK.ZIP, PATH FOR UNPACK FOLDER:
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
 
-IF YOU DOWNLOADED S2R_FIX.EXE, PATH FOR UNPACK FOLDER:
+IF DOWNLOADED S2R_FIX.EXE, PATH FOR UNPACK FOLDER:
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
