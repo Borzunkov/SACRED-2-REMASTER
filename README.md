@@ -15,8 +15,8 @@ IF DOWNLOADED S2R_FIX.EXE, PATH FOR UNPACK:
 ## DOWNLOAD
 LAST FIXES RELEASE:
 
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.3b/en_UK.zip
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.3b/S2R_FIX.EXE
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.4b/en_UK.zip
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.4b/S2R_FIX.EXE
 
 FULL PACKAGE PRE-RELEASE WITHOUT FIXES:
 
