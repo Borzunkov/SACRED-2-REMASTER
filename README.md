@@ -5,9 +5,11 @@ RUSSIAN LOCALIZATION
 
 ## INSTALLATION
 IF YOU DOWNLOAD EN_UK.ZIP
+
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
 
 IF YOU DOWNLOAD S2R_FIX.EXE
+
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
 ## DOWNLOAD
