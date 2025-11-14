@@ -4,11 +4,11 @@ RUSSIAN LOCALIZATION
 [![SACRED 2 REMASTER](https://images.steamusercontent.com/ugc/16257776941405511610/9A36016DDFA15A24083F2A4243FE2357A2D4BA8B/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
 ## INSTALLATION
-IF DOWNLOADED EN_UK.ZIP, PATH FOR UNPACK FOLDER:
+IF DOWNLOADED EN_UK.ZIP, PATH FOR UNPACK:
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
 
-IF DOWNLOADED S2R_FIX.EXE, PATH FOR UNPACK FOLDER:
+IF DOWNLOADED S2R_FIX.EXE, PATH FOR UNPACK:
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
