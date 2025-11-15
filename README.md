@@ -15,8 +15,8 @@ RUSSIAN LOCALIZATION
 ## DOWNLOAD
 LAST FIXES RELEASE:
 
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.5b/en_UK.zip
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.5b/S2R_FIX.EXE
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.6b/en_UK.zip
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.6b/S2R_FIX.EXE
 
 FULL PACKAGE PRE-RELEASE WITHOUT FIXES:
 
