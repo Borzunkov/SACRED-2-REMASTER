@@ -1,6 +1,7 @@
 # SACRED 2 REMASTER
-![Static Badge](https://img.shields.io/badge/build-0.7b-brightgreen?label=last%20fix)
-![Static Badge](https://img.shields.io/badge/build-0.1a-brightgreen?label=full%20package&color=orange)
+![Static Badge](https://img.shields.io/badge/build-0.8b-brightgreen?label=last%20fix&link=https%3A%2F%2Fgithub.com%2FBorzunkov%2FSACRED-2-REMASTER%2Freleases%2Fdownload%2F0.8b%2Fen_UK.zip)
+![Static Badge](https://img.shields.io/badge/build-0.1a-brightgreen?label=full%20package&color=orange&link=https%3A%2F%2Fgithub.com%2FBorzunkov%2FSACRED-2-REMASTER%2Freleases%2Fdownload%2F0.1a%2Fen_UK.zip)
+
 RUSSIAN LOCALIZATION
 
 [![SACRED 2 REMASTER](https://images.steamusercontent.com/ugc/16257776941405511610/9A36016DDFA15A24083F2A4243FE2357A2D4BA8B/)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
