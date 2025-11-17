@@ -1,5 +1,5 @@
 # SACRED 2 REMASTER
-![Static Badge](https://img.shields.io/badge/build-0.8b-brightgreen?label=last%20fix)
+![Static Badge](https://img.shields.io/badge/last%20fix-0.9b-brightgreen)
 ![Static Badge](https://img.shields.io/badge/build-0.1a-brightgreen?label=full%20package&color=orange)
 
 RUSSIAN LOCALIZATION
@@ -11,15 +11,15 @@ RUSSIAN LOCALIZATION
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
 
-- IF DOWNLOADED "S2R_FIX.EXE", PATH FOR UNPACK:
+- IF DOWNLOADED "EN_UK.EXE", PATH FOR UNPACK:
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
 ## DOWNLOAD
 LAST FIXES RELEASE:
 
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.8b/en_UK.zip
-https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.8b/S2R_FIX.EXE
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.9b/en_UK.zip
+https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.9b/en_UK.EXE
 
 FULL PACKAGE PRE-RELEASE WITHOUT FIXES:
 
