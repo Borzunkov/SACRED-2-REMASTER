@@ -20,7 +20,7 @@
 ## <p align="center">DOWNLOAD</p>
 <p align="center"><b>LAST FIXES RELEASE:</b></p>
 
-[[<p align="center">DOWNLOAD EN_UK.ZIP 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.zip)]
+[![<p align="center">DOWNLOAD EN_UK.ZIP 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.zip)
 
 [<p align="center">DOWNLOAD EN_UK.EXE 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.exe)</a>
 
