@@ -4,11 +4,9 @@
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=pc)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=gamepad)
 
-<p align="center"><b>RUSSIAN LOCALIZATION</b></p>
-
 [![SACRED 2 REMASTER](https://github.com/Borzunkov/SACRED-2-REMASTER-HUD/blob/main/IMG/S2R.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
-## <p align="center">INSTALLATION</p>
+## INSTALLATION
 <b>IF DOWNLOADED "EN_UK.ZIP", PATH FOR UNPACK:</b>
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
@@ -17,7 +15,7 @@
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
-## <p align="center">DOWNLOAD</p>
+## DOWNLOAD
 <b>LAST FIXES RELEASE:</b></p>
 
 [DOWNLOAD EN_UK.ZIP 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.zip)
@@ -28,7 +26,7 @@
 
 [DOWNLOAD EN_UK.ZIP 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-## <p align="center">COMMUNITY</p>
+## COMMUNITY
 [STEAM COMMUNITY](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
 ## <p align="center">INFORMATION</p>
