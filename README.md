@@ -1,4 +1,4 @@
-# <p align="center">SACRED 2 REMASTER</p>
+# <p align="center">RUSSIAN LOCALIZATION</p>
 ![Static Badge](https://img.shields.io/badge/fix-1.0b-brightgreen)
 ![Static Badge](https://img.shields.io/badge/build-0.1a-orange?label=package)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=pc)
