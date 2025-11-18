@@ -26,6 +26,10 @@
 
 [DOWNLOAD EN_UK.ZIP 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
+## REPOSITORIES
+<b>OTHER MY REPOSITORIES:</b></p>
+- [SACRED-2-REMASTER-HUD](https://github.com/Borzunkov/SACRED-2-REMASTER-HUD)
+
 ## COMMUNITY
 [STEAM COMMUNITY](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
