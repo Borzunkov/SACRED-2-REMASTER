@@ -1,5 +1,5 @@
 # <p align="center">RUSSIAN LOCALIZATION</p>
-![Static Badge](https://img.shields.io/badge/fix-1.0b-brightgreen)
+![Static Badge](https://img.shields.io/badge/fix-1.1b-brightgreen)
 ![Static Badge](https://img.shields.io/badge/build-0.1a-orange?label=package)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=pc)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=gamepad)
@@ -18,9 +18,9 @@
 ## DOWNLOAD
 <b>LAST FIXES RELEASE:</b></p>
 
-[DOWNLOAD EN_UK.ZIP 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.zip)
+[DOWNLOAD EN_UK.ZIP 1.1b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.1b/en_UK.zip)
 
-[DOWNLOAD EN_UK.EXE 1.0b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.0b/en_UK.exe)
+[DOWNLOAD EN_UK.EXE 1.1b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.1b/en_UK.EXE)
 
 <b>FULL PACKAGE PRE-RELEASE WITHOUT FIXES:</b>
 
