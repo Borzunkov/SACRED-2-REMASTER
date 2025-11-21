@@ -18,9 +18,9 @@
 ## DOWNLOAD
 <b>LAST FIXES RELEASE:</b></p>
 
-[DOWNLOAD EN_UK.ZIP 1.1b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.2b/en_UK.zip)
+[DOWNLOAD EN_UK.ZIP 1.2b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.2b/en_UK.zip)
 
-[DOWNLOAD EN_UK.EXE 1.1b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.2b/en_UK.EXE)
+[DOWNLOAD EN_UK.EXE 1.2b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/1.2b/en_UK.EXE)
 
 <b>FULL PACKAGE PRE-RELEASE WITHOUT FIXES:</b>
 
