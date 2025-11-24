@@ -1,6 +1,6 @@
 # <p align="center">RUSSIAN LOCALIZATION</p>
 ![Static Badge](https://img.shields.io/badge/fix-1.4b-brightgreen)
-![Static Badge](https://img.shields.io/badge/build-86-%-orange?label=translated)
+![Static Badge](https://img.shields.io/badge/build-pause-orange?label=translated)
 ![Static Badge](https://img.shields.io/badge/build-0.1a-orange?label=package)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=pc)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=gamepad)
