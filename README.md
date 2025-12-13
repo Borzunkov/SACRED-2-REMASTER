@@ -1,5 +1,5 @@
 # <p align="center">RUSSIAN LOCALIZATION</p>
-![Static Badge](https://img.shields.io/badge/fix-2.6b-brightgreen)
+![Static Badge](https://img.shields.io/badge/fix-2.7b-brightgreen)
 ![Static Badge](https://img.shields.io/badge/build-0.1a-red?label=package)
 ![Static Badge](https://img.shields.io/badge/build-pause-orange?label=translated)
 ![Static Badge](https://img.shields.io/badge/build-support-brightgreen?label=pc)
@@ -8,24 +8,24 @@
 [![SACRED 2 REMASTER](https://github.com/Borzunkov/SACRED-2-REMASTER-HUD/blob/main/IMG/S2R.png)](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
 ## INSTALLATION
-<b>IF DOWNLOADED "EN_UK.ZIP", PATH FOR UNPACK:</b>
+<b>IF DOWNLOADED "en_UK.ZIP", PATH FOR UNPACK:</b>
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale
 
-<b>IF DOWNLOADED "EN_UK.EXE", PATH FOR UNPACK:</b>
+<b>IF DOWNLOADED "en_UK.EXE", PATH FOR UNPACK:</b>
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
 ## DOWNLOAD
 <b>LAST FIXES RELEASE:</b></p>
 
-[EN_UK.ZIP 2.6b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/2.6b/en_UK.zip)
+[en_UK.ZIP 2.7b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/2.7b/en_UK.zip)
 
-[EN_UK.EXE 2.6b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/2.6b/en_UK.EXE)
+[en_UK.EXE 2.7b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/2.7b/en_UK.EXE)
 
 <b>FULL PACKAGE PRE-RELEASE WITHOUT FIXES:</b>
 
-[EN_UK.ZIP 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
+[en_UK.ZIP 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
 ## REPOSITORIES
 <b>OTHER MY REPOSITORIES:</b></p>
