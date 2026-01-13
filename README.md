@@ -27,8 +27,8 @@
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-## BUG REPORT
-[ISSUES](https://github.com/Borzunkov/SACRED-2-REMASTER/issues)
+## TEXT ISSUE REPORT
+[REPORT](https://github.com/Borzunkov/SACRED-2-REMASTER/issues)
 
 ## REPOSITORIES
 <b>OTHER MY REPOSITORIES:</b></p>
