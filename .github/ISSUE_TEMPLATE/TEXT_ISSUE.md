@@ -13,7 +13,7 @@ A clear description of what issue in text.
 **How it should be**
 A clear description to how text it should be.
 
-**Version(please complete the following information):**
+**Version (please complete the following information):**
  - FIX [e.g. 1.0a]
 
 **Screenshots**
