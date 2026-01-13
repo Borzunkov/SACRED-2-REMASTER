@@ -7,17 +7,17 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the Text issue**
+A clear description of what issue in text.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**How it should be**
+A clear description to how text it should be.
 
-**Fix (please complete the following information):**
- - Version [e.g. 1.0a]
+**Version(please complete the following information):**
+ - FIX [e.g. 1.0a]
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Windows, macOS, Linux]
