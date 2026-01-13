@@ -31,6 +31,9 @@
 <b>OTHER MY REPOSITORIES:</b></p>
 - [SACRED-2-REMASTER-HUD](https://github.com/Borzunkov/SACRED-2-REMASTER-HUD)
 
+## BUG REPORT
+[ISSUES](https://github.com/Borzunkov/SACRED-2-REMASTER/issues)
+
 ## COMMUNITY
 [STEAM COMMUNITY](https://steamcommunity.com/sharedfiles/filedetails/?id=3604275809)
 
