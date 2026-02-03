@@ -27,7 +27,7 @@
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-<b>UPSCALE RUSSIAN VIDEO FILES BY [KURONEKO](https://steamcommunity.com/id/Kuroneko_Hashimoto)</b>
+<b>UPSCALE RUSSIAN VIDEO FILES BY [KURONEKO](https://steamcommunity.com/id/Kuroneko_Hashimoto):</b>
 
 [VIDEO](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/VIDEO/video.zip)
 
