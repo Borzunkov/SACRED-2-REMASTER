@@ -16,13 +16,13 @@
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
-<hr style="border: none; background-color: grey; height: 1px; width: 25%;">
+<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>FONT "SACRED-2-REMASTER.ttf" RENAME TO "OpenSans.ttf", PATH FOR COPY\PASTE:</b>
 
 .\Steam\steamapps\common\Sacred 2 Remaster\Remaster\ui
 
-<hr style="border: none; background-color: grey; height: 1px; width: 25%;">
+<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>VIDEO "video.zip", PATH FOR UNPACK:</b>
 
@@ -35,19 +35,19 @@
 
 [en_UK.exe 3.3b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/3.3b/en_UK.EXE)
 
-<hr style="border: none; background-color: grey; height: 1px; width: 25%;">
+<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>FULL PACKAGE PRE-RELEASE WITHOUT FIXES:</b>
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-<hr style="border: none; background-color: grey; height: 1px; width: 25%;">
+<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>FONT FOR SACRED 2 REMASTER:</b>
 
 [FONT](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/FONT/SACRED-2-REMASTER.ttf)
 
-<hr style="border: none; background-color: grey; height: 1px; width: 25%;">
+<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>UPSCALE RUSSIAN VIDEO FILES:</b>
 
