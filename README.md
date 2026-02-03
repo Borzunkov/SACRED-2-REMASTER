@@ -16,7 +16,7 @@
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
-<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
+<hr>
 
 <b>FONT "SACRED-2-REMASTER.ttf" RENAME TO "OpenSans.ttf", PATH FOR COPY\PASTE:</b>
 
