@@ -33,11 +33,11 @@
 
 [en_UK.exe 3.3b](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/3.3b/en_UK.EXE)
 
-<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
-
 <b>FULL PACKAGE PRE-RELEASE WITHOUT FIXES:</b>
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
+
+<hr>
 
 <b>FONT FOR SACRED 2 REMASTER:</b>
 
