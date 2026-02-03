@@ -16,6 +16,14 @@
 
 .\Steam\steamapps\common\Sacred 2 Remaster\locale\en_UK
 
+<b>FONT "SACRED-2-REMASTER.ttf" RENAME TO "OpenSans.ttf", PATH FOR COPY\PASTE:</b>
+
+.\Steam\steamapps\common\Sacred 2 Remaster\Remaster\ui
+
+<b>VIDEO "video.zip", PATH FOR UNPACK:</b>
+
+.\Steam\steamapps\common\Sacred 2 Remaster
+
 ## DOWNLOAD
 <b>LAST FIXES RELEASE:</b></p>
 
@@ -27,7 +35,11 @@
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-<b>UPSCALE RUSSIAN VIDEO FILES BY [KURONEKO](https://steamcommunity.com/id/Kuroneko_Hashimoto):</b>
+<b>FONT FOR SACRED 2 REMASTER:</b>
+
+[FONT](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/FONT/SACRED-2-REMASTER.ttf)
+
+<b>UPSCALE RUSSIAN VIDEO FILES:</b>
 
 [VIDEO](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/VIDEO/video.zip)
 
