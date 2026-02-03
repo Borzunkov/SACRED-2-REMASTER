@@ -22,8 +22,6 @@
 
 .\Steam\steamapps\common\Sacred 2 Remaster\Remaster\ui
 
-<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
-
 <b>VIDEO "video.zip", PATH FOR UNPACK:</b>
 
 .\Steam\steamapps\common\Sacred 2 Remaster
@@ -41,13 +39,9 @@
 
 [en_UK.zip 0.1a](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/0.1a/en_UK.zip)
 
-<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
-
 <b>FONT FOR SACRED 2 REMASTER:</b>
 
 [FONT](https://github.com/Borzunkov/SACRED-2-REMASTER/releases/download/FONT/SACRED-2-REMASTER.ttf)
-
-<hr style="border: none; background-color: grey; height: 0.5px; width: 50%;">
 
 <b>UPSCALE RUSSIAN VIDEO FILES:</b>
 
